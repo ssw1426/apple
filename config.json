@@ -1,0 +1,12 @@
+{
+    "SERVER_URL": "localhost:30120",
+    "SERVER_LOGO": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F84%2FApple_Computer_Logo_rainbow.svg%2F200px-Apple_Computer_Logo_rainbow.svg.png&imgrefurl=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EC%2595%25A0%25ED%2594%258C&tbnid=0fmXC-cny0trnM&vet=12ahUKEwjZy6r_utrvAhWNHaYKHUtRDxwQMygQegUIARDyAQ..i&docid=fwyCk5W7q_XC0M&w=200&h=233&q=apple&ved=2ahUKEwjZy6r_utrvAhWNHaYKHUtRDxwQMygQegUIARDyAQ",
+    "SERVER_NAME": "APPLE_RP",
+    "PREFIX": "+",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"826253957679808576",
+        "MEMES":"826253957679808576",
+        "ANIMALS":"826253957679808576"
+    }
+    
+}

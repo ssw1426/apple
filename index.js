@@ -1,6 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require("fs");
+const BOT_TOKEN = config.BOT_TOKEN;
 const config = require('./config.json');
 const PREFIX = config.PREFIX;
 client.commands = new Discord.Collection();
@@ -17,7 +18,7 @@ client.on('ready', () => {
     }, 10000);
 });
 
-client.login(process.env.TOKEN);
+client.login(BOT_TOKEN);
 
 for(const file of commandFiles){
   const command = require(`./commands/${file}`);
